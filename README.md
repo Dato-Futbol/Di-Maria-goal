@@ -1,4 +1,4 @@
-# Di-Maria-goal
+# Di Maria's goal
 Code &amp; data to create the events sequence linked to the Di María's goal at the final of Copa América 2021
 
 ![](goal_di_maria_copa_america.png)
