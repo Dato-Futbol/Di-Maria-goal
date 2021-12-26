@@ -1,0 +1,15 @@
+player.name,player.number,team.name,event.type_name,pass.outcome.name,shot.outcome.name,location.x,location.y,pass.end_location.x,pass.end_location.y,carrera.end_location.x,carrera.end_location.y,pos_x_meter,pos_y_meter,pass_end_pos_x_meter,pass_end_pos_y_meter,carrera_end_pos_x_meter,carrera_end_pos_y_meter
+A. Di Marí,11,Argentina,recover,NA,NA,0.72,0.9,NA,NA,NA,NA,79.2,65.7,NA,NA,NA,NA
+A. Di Marí,11,Argentina,pass,complete,NA,0.72,0.9,0.7,0.8,NA,NA,79.2,65.7,77,58.400000000000006,NA,NA
+R. de Paul,7,Argentina,ball receipt,NA,NA,0.7,0.8,NA,NA,NA,NA,77,58.400000000000006,NA,NA,NA,NA
+R. de Paul,7,Argentina,carrera,NA,NA,0.7,0.8,NA,NA,0.69,0.65,77,58.400000000000006,NA,NA,75.89999999999999,47.45
+R. de Paul,7,Argentina,carrera,NA,NA,0.69,0.65,NA,NA,0.69,0.46,75.89999999999999,47.45,NA,NA,75.89999999999999,33.58
+R. de Paul,7,Argentina,pass,complete,NA,0.69,0.46,0.67,0.28,NA,NA,75.89999999999999,33.58,73.7,20.44,NA,NA
+N. Otamendi,19,Argentina,ball receipt,NA,NA,0.67,0.28,NA,NA,NA,NA,73.7,20.44,NA,NA,NA,NA
+N. Otamendi,19,Argentina,pass,complete,NA,0.69,0.25,0.73,0.35,NA,NA,75.89999999999999,18.25,80.3,25.549999999999997,NA,NA
+R. de Paul,7,Argentina,ball receipt,NA,NA,0.73,0.35,NA,NA,NA,NA,80.3,25.549999999999997,NA,NA,NA,NA
+R. de Paul,7,Argentina,carrera,NA,NA,0.73,0.35,NA,NA,0.63,0.47,80.3,25.549999999999997,NA,NA,69.3,34.309999999999995
+R. de Paul,7,Argentina,pass,complete,NA,0.63,0.47,0.18,0.73,NA,NA,69.3,34.309999999999995,19.8,53.29,NA,NA
+A. Di Marí,11,Argentina,ball receipt,NA,NA,0.18,0.73,NA,NA,NA,NA,19.8,53.29,NA,NA,NA,NA
+A. Di Marí,11,Argentina,carrera,NA,NA,0.18,0.73,NA,NA,0.12,0.66,19.8,53.29,NA,NA,13.2,48.18
+A. Di Marí,11,Argentina,shot,NA,goal,0.12,0.66,NA,NA,NA,NA,13.2,48.18,NA,NA,NA,NA
